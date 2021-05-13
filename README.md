@@ -19,9 +19,9 @@ Code. Finally, run `bundle` to install the lab's dependencies.
 ## Write an `a` Tag to Create a Link
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
-text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
+text between the `<a>` tag and the `</a>` tag) of `Academy Xi` anywhere in
 the file. Then set the `href` attribute of your new link element to
-`https://flatironschool.com`.
+`https://academyxi.com`.
 
 You can run the tests with this lab via the `rspec` command. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
